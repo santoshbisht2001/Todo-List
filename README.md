@@ -39,6 +39,7 @@ To run this project locally, follow these steps:
 ## Screenshots
 
 ![Screenshot 2024-06-11 123335](https://github.com/santoshbisht2001/Todo-List/assets/162146916/51b9ca51-4db8-4da3-bfe9-36f4b18d5204)
+![Screenshot 2024-06-11 123326](https://github.com/santoshbisht2001/Todo-List/assets/162146916/e27de7ed-3b7e-4464-8fe0-5492df7ab3a0)
 
 
 ## Contact
